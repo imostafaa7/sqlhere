@@ -77,7 +77,7 @@ mkdir -p ~/.gf && cp /tmp/gf/*.json ~/.gf/ && rm -rf /tmp/gf
 
 ```bash
 # Download
-wget -O ~/Tools/sqlhere https://raw.githubusercontent.com/your/sqlhere/main/sqlhere
+wget -O ~/Tools/sqlhere https://raw.githubusercontent.com/imostafaa7/sqlhere/main/sqlhere
 chmod +x ~/Tools/sqlhere
 sudo ln -sf ~/Tools/sqlhere /usr/local/bin/sqlhere
 
